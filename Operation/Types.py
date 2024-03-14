@@ -8,8 +8,8 @@ c = 0o130
 d = 0x12c
 
 # String
-name = "Pramod"
-name2 = 'Pramod'
+name = "Asish"
+name2 = 'Asish'
 mul_string_line = """ This is Multi
 line strng we can have
 lines which you can type
