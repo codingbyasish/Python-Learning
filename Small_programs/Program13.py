@@ -8,11 +8,11 @@ print(result)
 result = sum_of_num(22.4, 49.89)
 print(result)
 
-result = sum_of_num("Pramod", "Dutta")
+result = sum_of_num("Asish", "Mallick")
 print(result)
 
 # TypeError: can only concatenate str (not "int") to str
-result = sum_of_num("Pramod", 123)
+result = sum_of_num("Asish", 123)
 print(result)
 
 a = None
